@@ -56,7 +56,10 @@ const Footer = () => {
             >
               <i className="fab fa-instagram"></i>
             </SocialIcon>
-            <SocialIcon href="https://github.com/ferolic" target="_blank">
+            <SocialIcon
+              href="https://github.com/ashwin_ferolic"
+              target="_blank"
+            >
               <i className="fab fa-github"></i>
             </SocialIcon>
             <SocialIcon
@@ -69,7 +72,7 @@ const Footer = () => {
           <div>
             <FooterImgWrapper>
               <FooterImg src="icon.png" />
-              <CopyRight> copyright &copy; 2020,ferolic </CopyRight>
+              <CopyRight> copyright &copy; 2021,ferolic </CopyRight>
             </FooterImgWrapper>
           </div>
         </div>
