@@ -6,9 +6,9 @@ const ShowcaseContent = styled.div`
   @media ${(props) => props.theme.mediaQueries.medium} {
     display: flex;
     align-items: center;
-    margin: 0;
-    padding: 0;
-    min-height: 70vh;
+    margin: 10px;
+    padding: 10px;
+    min-height: 60vh;
   }
 `;
 
@@ -54,6 +54,12 @@ const ShowcaseTitle2 = styled.h2`
   line-height: 32px;
   margin: 32px 0px;
   color: rgba(0, 0, 0, 0.85);
+
+  @media ${(props) => props.theme.mediaQueries.medium} {
+    font-size: 16px;
+    line-height: 28px;
+    margin: 28px 0px;
+  }
 `;
 
 const ScrollText = styled.span`
