@@ -57,7 +57,7 @@ const Footer = () => {
               <i className="fab fa-instagram"></i>
             </SocialIcon>
             <SocialIcon
-              href="https://github.com/ashwin_ferolic"
+              href="https://github.com/ferolic"
               target="_blank"
             >
               <i className="fab fa-github"></i>
