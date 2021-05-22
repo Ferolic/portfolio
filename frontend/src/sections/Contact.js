@@ -182,7 +182,7 @@ const Contact = () => {
             <InstaLeft>
               <h1 className="subtitle">I'm a lot cooler on instagram</h1>
               <a
-                href="https://www.instagram.com/ferolic"
+                href="https://www.instagram.com/ashwin_ferolic"
                 target="_blank"
                 rel="noreferrer"
               >
